@@ -39,7 +39,7 @@
 
 ###
 
-<img align="right" height="150" style="height: auto;" src="https://media1.tenor.com/m/KBY0PV94mRcAAAAd/anime-fran.gif"  />
+<img align="right" height="250" width="auto" src="https://media1.tenor.com/m/KBY0PV94mRcAAAAd/anime-fran.gif"  />
 
 ###
 
