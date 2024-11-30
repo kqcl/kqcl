@@ -49,6 +49,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/kqcl/kqcl/tree/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/kqcl/kqcl/blob/output/snake.svg alt="Snake animation" />
 
 ###
