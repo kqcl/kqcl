@@ -39,11 +39,24 @@
 
 ###
 
-<img align="right" height="250" width="282" src="https://media1.tenor.com/m/KBY0PV94mRcAAAAd/anime-fran.gif"  />
-
-###
-
-<p align="left">i'm just some girl from germany who's interested cs, currently in high school :3<br>i'm quite familiar with ts & py, did a little rust and swift and am now mainly focussing on go (love the lang)<br>i'm a huge vim fan - spent wayy too much time on my neovim config - dotfiles are somewhere in my repos btww<br>on the off-chance you would wanna chat, just add me on dc (@kqcl) - always happy to have someone to talk to<br>im a huge reading fan, nothing beats a good book (maybe cats but that's it) - also life without music would be pointless ngl<br>anywaysss - if you've read this far, tyy and have a nice dayy - you're awesome <3</p>
+<div style="display: flex; flex-wrap: wrap; align-items: center;">
+  <div style="flex: 1; min-width: 250px;">
+    <p align="left">
+      i'm just some girl from germany who's interested cs, currently in high school :3<br>
+      i'm quite familiar with ts & py, did a little rust and swift and am now mainly focussing on go (love the lang)<br>
+      i'm a huge vim fan - spent wayy too much time on my neovim config - dotfiles are somewhere in my repos btww<br>
+      on the off-chance you would wanna chat, just add me on dc (@kqcl) - always happy to have someone to talk to<br>
+      im a huge reading fan, nothing beats a good book (maybe cats but that's it) - also life without music would be pointless ngl<br>
+      anywaysss - if you've read this far, tyy and have a nice dayy - you're awesome <3
+    </p>
+  </div>
+  <div style="flex: 0 0 auto; margin-left: 10px;">
+    <picture>
+      <source media="(max-width: 600px)" srcset="https://media1.tenor.com/m/KBY0PV94mRcAAAAd/anime-fran.gif" width="100%">
+      <img src="https://media1.tenor.com/m/KBY0PV94mRcAAAAd/anime-fran.gif" width="25%">
+    </picture>
+  </div>
+</div>
 
 ###
 
