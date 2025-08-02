@@ -43,7 +43,7 @@
 
 ###
 
-<p align="left">i'm just some girl from germany who's interested cs, currently in high school :3<br>i'm quite familiar with ts & py, did a little rust and swift and am now mainly focussing on go (love the lang)<br>i'm a huge vim fan - spent wayy too much time on my neovim config - dotfiles are somewhere in my repos btww<br>on the off-chance you would wanna chat, just add me on dc (@kqcl) - always happy to have someone to talk to<br>im a huge reading fan, nothing beats a good book (maybe cats but that's it) - also life without music would be pointless ngl<br>anywaysss - if you've read this far, tyy and have a nice dayy - you're awesome <3</p>
+<p align="left">i'm just some enby from germany who's interested cs, currently in high school :3<br>i'm quite familiar with ts & py, did a little rust and swift and am now mainly focussing on go (love the lang)<br>i'm a huge vim fan - spent wayy too much time on my neovim config - dotfiles are somewhere in my repos btww<br>on the off-chance you would wanna chat, just add me on dc (@nya.dev) - always happy to have someone to talk to<br>im a huge reading fan, nothing beats a good book (maybe cats but that's it) - also life without music would be pointless ngl<br>anywaysss - if you've read this far, tyy and have a nice dayy - you're awesome <3</p>
 
 ###
 
