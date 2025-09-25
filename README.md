@@ -11,20 +11,18 @@
 
 ###
 
-<p align="left">
-  ![Go](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg)
-  ![Rust](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg)
-  ![Linux](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg)
-  ![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg)
-  ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)
-  ![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)
-  ![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)
-  ![Lua](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg)
-  ![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg)
-  ![Swift](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg)
-  ![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg)
-  ![Gradle](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg)
-</p>
+![Go](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg) 
+![Rust](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg) 
+![Linux](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg) 
+![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg) 
+![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) 
+![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) 
+![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) 
+![Lua](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg) 
+![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg) 
+![Swift](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg) 
+![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg) 
+![Gradle](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg)
 
 ###
 
